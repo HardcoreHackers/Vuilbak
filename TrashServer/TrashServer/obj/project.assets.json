@@ -11508,11 +11508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klaas\\Documents\\KU Leuven\\Master sem 1\\Hackaton\\Test code\\TrashServer\\TrashServer\\TrashServer.csproj",
+      "projectUniqueName": "C:\\Users\\klaas\\Documents\\KU Leuven\\Master sem 1\\Hackaton\\Repository\\VuilbakWebApp\\TrashServer\\TrashServer\\TrashServer.csproj",
       "projectName": "TrashServer",
-      "projectPath": "C:\\Users\\klaas\\Documents\\KU Leuven\\Master sem 1\\Hackaton\\Test code\\TrashServer\\TrashServer\\TrashServer.csproj",
+      "projectPath": "C:\\Users\\klaas\\Documents\\KU Leuven\\Master sem 1\\Hackaton\\Repository\\VuilbakWebApp\\TrashServer\\TrashServer\\TrashServer.csproj",
       "packagesPath": "C:\\Users\\klaas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klaas\\Documents\\KU Leuven\\Master sem 1\\Hackaton\\Test code\\TrashServer\\TrashServer\\obj\\",
+      "outputPath": "C:\\Users\\klaas\\Documents\\KU Leuven\\Master sem 1\\Hackaton\\Repository\\VuilbakWebApp\\TrashServer\\TrashServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -30,3 +30,35 @@ C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Test code\TrashServer\T
 C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Test code\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.dll
 C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Test code\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.pdb
 C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Test code\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.csproj.CopyComplete
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\bin\Debug\netcoreapp2.1\TrashServer.deps.json
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\bin\Debug\netcoreapp2.1\TrashServer.runtimeconfig.json
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\bin\Debug\netcoreapp2.1\TrashServer.runtimeconfig.dev.json
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\bin\Debug\netcoreapp2.1\TrashServer.dll
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\bin\Debug\netcoreapp2.1\TrashServer.pdb
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\bin\Debug\netcoreapp2.1\TrashServer.Views.dll
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\bin\Debug\netcoreapp2.1\TrashServer.Views.pdb
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.csprojAssemblyReference.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.csproj.CoreCompileInputs.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.RazorAssemblyInfo.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.RazorAssemblyInfo.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.AssemblyInfoInputs.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.AssemblyInfo.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.TagHelpers.input.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.TagHelpers.output.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.RazorCoreGenerate.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.RazorTargetAssemblyInfo.cache
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.RazorTargetAssemblyInfo.cs
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.Views.pdb
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.dll
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.pdb
+C:\Users\klaas\Documents\KU Leuven\Master sem 1\Hackaton\Repository\VuilbakWebApp\TrashServer\TrashServer\obj\Debug\netcoreapp2.1\TrashServer.csproj.CopyComplete
