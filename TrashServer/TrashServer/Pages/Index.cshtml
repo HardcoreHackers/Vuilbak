@@ -35,7 +35,7 @@
 
 	  function getByNumber(array, number) {
 		  for (i = 0; i < array.length; i++) {
-			  if (array[i].NUMMER === number) {
+			  if (array[i].NUMMER=number) {
 				  return array[i];
 			  }
 		  }
@@ -93,13 +93,13 @@
 	  //var offset = new OpenLayers.Pixel(-(size.w / 2), -size.h);
 	  for (i = 0; i < arr_from_json.length; i++){
 		  if (arr_from_json[i].json_geometry) { //filter corrupt entries
-			  //var icon = getIcon(getByNumber(trashCansValues, arr_from_json[i]));
+			  var icon = getIcon(trashCansValues[i].Level);
 			  var lonLat = new OpenLayers.LonLat(arr_from_json[i].json_geometry.coordinates[0], arr_from_json[i].json_geometry.coordinates[1])
 				  .transform(
 					  new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
 					  map.getProjectionObject() // to Spherical Mercator Projection
 			  );
-			  markers.addMarker(new OpenLayers.Marker(lonLat)); //TODO
+			  markers.addMarker(new OpenLayers.Marker(lonLat,icon));
 		  }		  
 	  }
 
