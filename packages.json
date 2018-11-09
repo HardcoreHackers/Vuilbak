@@ -1,8 +1,0 @@
-{
-  "name": "VuilbakWebApp",
-  "description": "Application for cityhacks 2018",
-  "version": "1.0.0",
-  "engines": {
-    "node": "10.3.0"
-  }
-}
