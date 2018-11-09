@@ -29,11 +29,23 @@
 		  }
 		  return new OpenLayers.Icon("marker75.png");
 	  }
+
+	  /*
+	  function isFull(trashCan) {
+		  return trashCan.Level >= 75;
+	  }
+
+	  function filterFull(trashCans) {
+		  return trashCans.filter(isFull);
+	  }*/
 	
 	  var afvalmandenJSON = httpGet("afvalmanden.json");
 	  var trashCansValuesJSON = httpGet("trash.json");
 	  var arr_from_json = JSON.parse(afvalmandenJSON);
 	  var trashCansValues = JSON.parse(trashCansValuesJSON);
+	  //trashCansValues = filterFull(trashCansValues);
+	  
+	  
 
 	/*
 	fetch('file.txt')
