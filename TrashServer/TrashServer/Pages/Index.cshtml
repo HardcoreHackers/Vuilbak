@@ -17,7 +17,10 @@
     return xmlHttp.responseText;
 	  }
 
-	  function getIcon(level) {
+	  function getIcon(level) { 
+		  if (level===null) {
+			  return new OpenLayers.Icon("markerNull.png"); 
+		  }
 		  if (level < 25) {
 			  return new OpenLayers.Icon("marker0.png");
 		  }
@@ -28,6 +31,15 @@
 			  return new OpenLayers.Icon("marker50.png");
 		  }
 		  return new OpenLayers.Icon("marker75.png");
+	  }
+
+	  function getByNumber(array, number) {
+		  for (i = 0; i < array.length; i++) {
+			  if (array[i].NUMMER=number) {
+				  return array[i];
+			  }
+		  }
+		  return null;
 	  }
 
 	  /*
