@@ -1,6 +1,3 @@
- map = new OpenLayers.Map("mapdiv");
-    map.addLayer(new OpenLayers.Layer.OSM());
-
 	//Import OpenLayers.js before this file.
 	
 	/**
@@ -74,7 +71,9 @@
 	  * Source used: https://wiki.openstreetmap.org/wiki/OpenLayers_Marker_Example
 	  */
 	  function fillMap(){
-		  var afvalmandenJSON = httpGet("afvalmanden.json");
+		map = new OpenLayers.Map("mapdiv");
+		map.addLayer(new OpenLayers.Layer.OSM());
+	  var afvalmandenJSON = httpGet("afvalmanden.json");
 	  var trashCansValuesJSON = httpGet("trash.json");
 	  var arr_from_json = JSON.parse(afvalmandenJSON);
 	  var trashCansValues = JSON.parse(trashCansValuesJSON);
