@@ -1,2 +1,3 @@
-# Het interessantste file om te bekijken is
-# VuilbakWebApp/TrashServer/Pages/Index.cshtml
+# Het interessantste file om te bekijken zijn
+# TrashServer/TrashServer/Pages/Index.cshtml
+# TrashServer/TrashServer/wwwroot/Markers.js
