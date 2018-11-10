@@ -71,6 +71,7 @@
 	  
 	  /**
 	  * Creates an OpenLayers map, and fills it with markers based on trashcan locations.
+	  * Source used: https://wiki.openstreetmap.org/wiki/OpenLayers_Marker_Example
 	  */
 	  function fillMap(){
 		  var afvalmandenJSON = httpGet("afvalmanden.json");
