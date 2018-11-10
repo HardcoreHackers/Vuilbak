@@ -33,49 +33,21 @@
 		  }
 		  return null;
 	  }
-
-	  /*
+	  
 	  function isFull(trashCan) {
 		  return trashCan.Level >= 75;
 	  }
 
 	  function filterFull(trashCans) {
 		  return trashCans.filter(isFull);
-	  }*/
-	
-	  var afvalmandenJSON = httpGet("afvalmanden.json");
+	  }
+	  
+	  function fillMap(){
+		  var afvalmandenJSON = httpGet("afvalmanden.json");
 	  var trashCansValuesJSON = httpGet("trash.json");
 	  var arr_from_json = JSON.parse(afvalmandenJSON);
 	  var trashCansValues = JSON.parse(trashCansValuesJSON);
 	  //trashCansValues = filterFull(trashCansValues);
-	  
-	  
-
-	/*
-	fetch('file.txt')
-  .then(response => response.text())
-  .then(text => console.log(text))*/
-  
-  /*
-  function loadJSON(callback) {   
-
-    var xobj = new XMLHttpRequest();
-        xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'my_data.json', true); // Replace 'my_data' with the path to your file
-    xobj.onreadystatechange = function () {
-          if (xobj.readyState == 4 && xobj.status == "200") {
-            // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
-            callback(xobj.responseText);
-          }
-    };
-    xobj.send(null);  
-	}*/
-
-	  /*
-	fetch('file.json')
-  .then(response => response.json())
-  .then(jsonResponse => console.log(jsonResponse));
-	*/
 
 	  var zoom = 16;
 	  var markers = new OpenLayers.Layer.Markers("Markers");
@@ -102,3 +74,6 @@
 		  );
 
     map.setCenter (lonLat, zoom);
+	  }
+	  
+	  fillMap();
